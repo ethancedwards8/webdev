@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    margin: 0;
+    font-size: 1rem;
+}
+
+aside {
+    display: flexbox;
+    text-align: center;
+    justify-content: left;
+    gap: 0;
+}
+
+aside ul { 
+    list-style-type: none;
+    text-align: left;
+}

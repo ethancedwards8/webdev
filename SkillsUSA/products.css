@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+    margin: 0;
+    font-size: 1rem;
+}
+img{
+    width: 30%;
+}
+product{
+    text-align: center;
+    align-self: center;
+}
+
+p {
+    text-align: center;
+}

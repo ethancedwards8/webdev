@@ -1,0 +1,41 @@
+.header {
+    background-color: rgb(56, 170, 56);
+    margin: 0;
+    text-align: center;
+}
+
+header a {
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+header > h1 > a:hover {
+    text-decoration: underline;
+}
+
+nav {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(149, 218, 242);
+    display: table;
+    width: 100%;
+}
+
+nav > ul {
+    display: table-row;
+}
+
+nav > ul > li {
+    display: table-cell;
+    text-align: center;
+}
+
+nav > ul > li > a {
+    display: block;
+}
+
+nav > ul > li > a:hover {
+    display: block;
+    background-color: grey;
+}
