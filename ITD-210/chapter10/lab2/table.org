@@ -1,0 +1,13 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with SPC SPC and enter text in its buffer.
+
+
+
+| Sponsorship Level | Dollar Amount | Details                                                                         | Sponsorship Benefits                                                                    |
+|-------------------+---------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------|
+| Green             | $200          | The green sponsorship helps us maintain green pastures for our grazing friends. | Recognition on our website.                                                             |
+| Blue              | $400          | The blue sponsorship helps us provide food for the animals.                     | Recognition on our website and our brochure.                                            |
+| Red               | $600          | The red sponsorship helps us provide medical care for the animals.              | Recognition on our website and our brochure. Business logo displayed on a banner at our facility. |
+| Purple            | $800          | The purple sponsorship helps us maintain homes for the animals.                 | Recognition on our website and our brochure. Business logo displayed on a banner at our facility. Business name and logo displayed at the annual community event. |
+| Silver            | $1,000        | The silver sponsorship supports our monthly expenses.                           | Recognition on our website and our brochure. Business logo displayed on a banner at our facility. Business name and logo displayed at the annual community event. Recognition plaque with business name prominently displayed within the facility. |
+| Gold              | $1,500        | The gold sponsorship supports our operation costs.                              | Recognition on our website and our brochure. Business logo displayed on a banner at our facility. Business name and logo displayed at the annual community event. Recognition plaque with business name prominently displayed within the facility. Display table at the annual community event. Recognition in all media releases. |
